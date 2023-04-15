@@ -60,4 +60,9 @@ public class NewBehaviourScript : MonoBehaviour
             isJumping = true;
         }
     }
+
+    private void teste()
+    {
+
+    }
 }
